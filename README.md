@@ -34,5 +34,15 @@
 
 ---
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vishal182004&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+## 🔥 GitHub Streaks:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vishal182004&theme=radical&hide_border=false)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vishal182004&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 ⭐ **Thanks for visiting my profile!** Feel free to check out my repositories and connect with me.
 
