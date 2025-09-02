@@ -6,9 +6,9 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 3rd Year B.Tech CS Student at Sharda University (2026 Batch)  
+- 🎓 Final Year B.Tech CS Student at Sharda University (2026 Batch)  
 - 💡 Passionate about **Java, Web Development, and Data Structures & Algorithms**  
-- 🌱 Currently preparing for **TCS NQT 2025**  
+- 🌱 Currently preparing for **JOB PLACEMENTS**  
 - 🔭 Building my own **Voice Assistant (JARVIS-like)** as a personal project  
 - 📫 Reach me at: **jhabishal36@gmail.com**  
 
