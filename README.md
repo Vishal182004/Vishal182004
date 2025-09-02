@@ -1,64 +1,66 @@
-<h1 align="center">✨ Vishal Jha ✨</h1>
-<h3 align="center">🚀 Aspiring Software Developer | Java | Web Development | DSA Enthusiast</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
----
-
-### 👨‍💻 About Me:
-- 🎓 3rd Year B.Tech CS Student at Sharda University (2026 Batch)  
-- 💡 Passionate about **Java, Web Development, and Data Structures & Algorithms**  
-- 🌱 Currently preparing for **TCS NQT 2025**  
-- 🔭 Building my own **Voice Assistant (JARVIS-like)** as a personal project  
-- 📫 Reach me at: **jhabishal36@gmail.com**  
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-<a href="mailto:jhabishal36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vishal-jha-1a2611280/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Vishal182004"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-### 🚀 Languages and Tools:
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</p>
-
----
-
-### 📊 GitHub Stats:
+<!-- Glowing Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal182004&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal182004&theme=tokyonight" alt="streak"/>
+  <img src="vishal_jha_banner.gif" alt="Vishal Jha - Banner" width="100%" />
+</p>
+
+<!-- Stylish Intro -->
+<h1 align="center">Hi 👋, I'm Vishal Jha</h1>
+<h3 align="center">A Passionate Computer Science Student & Aspiring Software Developer 🚀</h3>
+
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+%7C+Python+%7C+Web+Development;AI+%7C+Machine+Learning+Enthusiast;Always+learning+new+things+everyday+✨" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
+## 🌟 About Me  
+- 🎓 B.Tech CSE Student (2026 Batch) at Sharda University  
+- 💡 Interested in **Software Development, AI, and DSA**  
+- 🌱 Currently learning **Java, DSA, and Web Development**  
+- 💼 Preparing for **TCS NQT & Placements**  
+- ⚡ Fun fact: I love creating projects that solve **real-life problems**  
+
+---
+
+## 📊 GitHub Stats & Streaks  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishal182004&theme=onedark" alt="trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishaljha123&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=vishaljha123&theme=radical" alt="GitHub Streak" height="165" />
 </p>
 
 ---
 
-### 👀 Visitor Count:
+## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Vishal182004/count.svg" alt="Visitor Count"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vishaljha123&theme=onedark&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
 
-<h2 align="center">✨ Thanks for visiting my profile ✨</h2>
+## 🌐 Connect With Me  
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
+  <a href="mailto:vishaljhaofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vishaljha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/vishaljha123"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+<!-- Stylish Thank You -->
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Thanks Gif">
 </p>
 
