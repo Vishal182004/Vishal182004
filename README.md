@@ -34,6 +34,22 @@
 </p>
 
 ---
+---
+
+### 🛠️ Projects:
+<p align="left">
+  
+- 🔹 **[Voice Assistant (JARVIS-like)](https://github.com/Vishal182004/YourRepoNameHere)**  
+  *A personal project where I’m building my own voice assistant capable of executing basic tasks like opening apps, fetching information, and automating workflows.*  
+
+- 🔹 **[Expense Tracker Web App](https://github.com/Vishal182004/YourRepoNameHere)**  
+  *A full-stack web app built using Java, MySQL, and JavaScript to manage daily expenses with a neat dashboard.*  
+
+- 🔹 **[Portfolio Website](https://github.com/Vishal182004/YourRepoNameHere)**  
+  *My personal website showcasing skills, experience, and projects. Built with HTML, CSS, and JavaScript.*  
+
+</p>
+
 
 ### 📊 GitHub Stats:
 <p align="center">
