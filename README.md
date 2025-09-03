@@ -39,7 +39,7 @@
 ### 🛠️ Projects:
 <p align="left">
   
-- 🔹 **[Voice Assistant (JARVIS-like)](https://vishal182004.github.io/Quick-chat/)**  
+- 🔹 **[Voice Assistant (JARVIS-like)]()**  
   *A personal project where I’m building my own voice assistant capable of executing basic tasks like opening apps, fetching information, and automating workflows.*  
 
 - 🔹 **[Expense Tracker Web App](https://github.com/Vishal182004/YourRepoNameHere)**  
