@@ -42,13 +42,14 @@
 - 🔹 **[Voice Assistant (JARVIS-like)]()**  
   *A personal project where I’m building my own voice assistant capable of executing basic tasks like opening apps, fetching information, and automating workflows.*  
 
-- 🔹 **[Expense Tracker Web App](https://github.com/Vishal182004/YourRepoNameHere)**  
-  *A full-stack web app built using Java, MySQL, and JavaScript to manage daily expenses with a neat dashboard.*  
+- 🔹 **[Expense Tracker Web App](https://bishal-expense-tracker.netlify.app)**  
+  *A full-stack web app built using React and JavaScript to manage daily expenses with a neat dashboard. [GitHub Repo](https://github.com/Vishal182004/expense-tracker)*  
 
 - 🔹 **[Portfolio Website](https://github.com/Vishal182004/YourRepoNameHere)**  
   *My personal website showcasing skills, experience, and projects. Built with HTML, CSS, and JavaScript.*  
 
 </p>
+
 
 
 ### 📊 GitHub Stats:
